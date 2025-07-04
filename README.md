@@ -110,19 +110,3 @@ Your Name
 ```
 
 ---
-
-## 🙌 Acknowledgements
-
-- Built using [LangChain](https://github.com/hwchase17/langchain)
-- Vector storage powered by [ChromaDB](https://github.com/chroma-core/chroma)
-- LLM inference via OpenAI API or Claude
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-💼 Automate your outreach. Focus on conversations, not compositions.
