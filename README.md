@@ -16,8 +16,6 @@ This project leverages **ChromaDB**, **Large Language Models**, and **semantic s
 
 ## 🖼️ Screenshot
 
-> 📌 Add your UI or sample output screenshot here
-
 ![Cold Email Screenshot] ![image](https://github.com/user-attachments/assets/54d77b8a-98af-4285-a4da-ecc474647fa5)
 
 ---
